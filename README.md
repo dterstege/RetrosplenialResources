@@ -54,6 +54,7 @@ Repository of references outlining homologies between the human and rodent retro
 | [Li2018](https://www.sciencedirect.com/science/article/pii/S030439401830185X) | Structural and functional brain network of human retrosplenial cortex |
 | [Alves2019](https://www.nature.com/articles/s42003-019-0611-3) | An improved neuroanatomical model of the default-mode network reconciles previous neuroimaging and neuropathological findings |
 | [Whitesell2021](https://www.sciencedirect.com/science/article/pii/S0896627320308898?via%3Dihub) | Regional, Layer, and Cell-Type-Specific Connectivivty of the Mouse Default Mode Network |
+| [Rolls2022](https://onlinelibrary.wiley.com/doi/10.1002/hbm.26089) | The human posterior cingulate, retrosplenial, and medial parietal cortex effective connectome, and implications for memory and navigation |
 | [Alexander2023](https://www.sciencedirect.com/science/article/pii/S0896627322010273) | Rethinking retrosplenial cortex: Perspectives and predictions |
 | [Foster2023](https://www.nature.com/articles/s41583-022-00661-x) | A tripartite view of the posterior cingulate cortex |
 
