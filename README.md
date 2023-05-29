@@ -17,6 +17,7 @@ Repository of references outlining homologies between the human and rodent retro
 
 | Lead Author / Year  | Title |
 | ------------- | ------------- |
+| [Ding2016](https://atlas.brain-map.org/atlas?atlas=265297126#atlas=265297126&plate=112360888&structure=10324&x=40320&y=46976&zoom=-7&resolution=124.49&z=3) | Allen Human Brain Atlas, see also: [Comprehensive cellular-resolution atlas of the adult human brain](https://onlinelibrary.wiley.com/doi/full/10.1002/cne.24080) |
 | [Braak1979](https://link.springer.com/article/10.1007/BF00233654) | Pigment architechture of the human telencephalic cortex. IV. Regio retrosplenialis |
 | [Vogt1995](https://onlinelibrary.wiley.com/doi/abs/10.1002/cne.903590310) | Human cigulate cortex: Surface feature, flat maps, and cytoarchitecture |
 | [Maddock1999](https://www.sciencedirect.com/science/article/pii/S0166223698013745) | The retrosplenial cortex and emotion: new insights from functional neuroimaging of the human brain |
